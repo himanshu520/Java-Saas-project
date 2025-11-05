@@ -1,2 +1,2 @@
 # Java-Saas-project
-java Saas project for youtube
+YouTube SEO SaaS Tool (Spring Boot, Thymeleaf, Tailwind CSS, YouTube Data API V3)
